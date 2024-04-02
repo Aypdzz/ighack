@@ -107,7 +107,7 @@ case "$lang" in
     ;;
 esac
 
-read -p "Please enter Instagram username: " username
+read -p "Please enter Instagram username:jiji_laclass" username
 
 echo "Executing"
 
