@@ -19,7 +19,7 @@ apt install git
 
 - Luego copiamos el repositorio
 ```
-git clone https://github.com/JuanEGamerYT/ighack
+git clone https://github.com/jijy_laclass/ighack
 ```
 - Entramos al directorio
 ```
